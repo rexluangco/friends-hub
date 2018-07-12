@@ -1,0 +1,188 @@
+.webNameStyle{
+	font-family: 'Faster One', cursive;
+	font-size: 2rem;
+	
+}
+
+.bgsignup {
+	
+	background-image: url("/storage/images/bg1.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	width: 100%;
+
+}
+
+.bgsignin {
+	
+	background-image: url("/storage/images/bg9.jpeg");
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	width: 100%;
+
+}
+
+
+.slider .item img{
+
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+	overflow-y: hidden;
+}
+
+.txtAreaStatus {
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 15px;
+	resize: none;
+}
+
+.statusBG {
+
+	background-color: #dfe3ee;
+	 border-radius: 6px;
+
+}
+
+.timelineFontStyle{
+	font-family:'Slabo 27px', serif;
+}
+
+.timelineFontStyle p{
+	font-family:'Slabo 27px', serif;
+	font-size: 16px;
+}
+
+
+.timelineFontStyle li{
+	font-family:'Slabo 27px', serif;
+	font-size: 11px;
+}
+
+
+.footer{
+/*	position: absolute;
+	bottom: 0;*/
+}
+
+body{
+	font-family:'Slabo 27px', serif;
+	font-size:16px;
+}
+
+.intro {
+	font-family: 'Kaushan Script', cursive;
+	font-size: 16px;
+}
+
+
+.prof_lineStyle{
+	border-color: orange;
+}
+
+
+.cover_photo{
+	background-position: center;
+	background-size: cover;
+	height: 400px;
+	width: 100%;
+	box-shadow: 3px 5px 15px #D3D3D3;
+}
+
+.prof_image{
+	height: 100px;
+	height: 100px;
+}
+
+.profile-separator{
+	border-color: skyblue;
+}
+
+
+.profile{
+	height: 400px;
+	width: 100%;
+	max-height: 400px;
+	box-shadow: 2px 10px 20px #D3D3D3;
+}
+
+.navbarPic{
+	height: 40px;
+	width: 40px;
+	border-radius: 100%;
+}
+
+
+.uploadCoverPhoto{
+	position: absolute;
+	top: 5px;
+	left:20px;
+	background: transparent;
+	opacity:1;
+}
+
+.uploadCoverPhoto i:hover {
+	opacity:1;
+	cursor: pointer;
+	background-color:#DEB887 ;
+	border-radius: 6px;
+	
+}
+
+
+.uploadCoverPhoto input{
+	display: none;
+}
+
+
+.prof_image{
+
+	height: 80px;
+	width: 80px;
+}
+.lineStyle{
+	border-color: skyblue;
+}
+
+
+.image-upload > input{
+   opacity: 1;
+}
+
+
+.imgUpload{
+    
+    cursor:pointer;
+}
+
+.imgUpload:hover{
+    background-color: orange;
+    cursor:pointer;
+   
+}
+
+.thumbnail{
+	height:auto;
+	width: 75%;
+	min-height: 25%;
+	min-width: 25%;
+	max-height: auto;
+	max-width: 80%;
+}
+
+.counter{
+	height: 85px;
+}
+
+.reported-image{
+	width: 75%;
+}
+
+.reported_image_admin{
+	width: 50%;
+}
+
